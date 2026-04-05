@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 # I am a computer engineer in Ohio that works with languages such as C/C++/C#, Java, and Python.
+I am currently working through Unity's Junior programmer pathway, and trying to improve my capabilities as a programmer
+After that I plan to work more with hardware and take classes to build 2d and 3d assets in my Unity projects.
